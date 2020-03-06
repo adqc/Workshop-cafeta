@@ -1,11 +1,20 @@
 Ceviche :)
 
 Ingregientes:
+<<<<<<< HEAD
 - Limón 10
 - ají 2
 - camotes 12
 - pescado de tilapia 1
 - almejas 2
+=======
+- Limón
+- ají
+- camotes
+- pescado de tilapia
+- almejas
+- choclo
+>>>>>>> cc302e34c00ab14395d1080c71d6b2d8a2f434fa
 
 Preparación:
 - Exprimir los limones. 3

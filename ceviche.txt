@@ -4,6 +4,7 @@ Ingregientes:
 - Pescado
 - Limón
 - ají
+-camotes
 
 Preparación:
 - Exprimir los limones.

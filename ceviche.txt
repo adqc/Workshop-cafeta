@@ -1,14 +1,15 @@
 Ceviche :)
 
 Ingregientes:
-- Limón
-- ají
-- camotes
-- pescado de tilapia
-- almejas
+- Limón 10
+- ají 2
+- camotes 12
+- pescado de tilapia 1
+- almejas 2
 
 Preparación:
-- Exprimir los limones.
-- Cortar el pescado en cubos.
-- Cortar el ají (dejar la pepa si desea que sea muy picante).
-- Mezclar los ingredientes en un recipiente.git
+- Exprimir los limones. 3
+- Cortar el pescado en cubos. 4
+- Cortar el ají (dejar la pepa si desea que sea muy picante). 4
+- Mezclar los ingredientes en un recipiente.git 2
+- agregando este nueva linea 3
